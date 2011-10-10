@@ -1,5 +1,5 @@
 //  
-//  slcient.cs
+//  slclient.cs
 //  
 //  Author:
 //       Juan Egido <alberje@alberje.es>
@@ -20,12 +20,9 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 using System;
 
-namespace aslaserver
-{
-	public class slcient
-	{
-		public slcient ()
-		{
+namespace aslaserver {
+	public class slclient {
+		public slclient () {
 		}
 	}
 }
