@@ -1,4 +1,5 @@
 username = asla
 passwd = pass
 server = localhost
-databse = asla
+database = asla
+port = 3306
