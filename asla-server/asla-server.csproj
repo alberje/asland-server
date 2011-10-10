@@ -44,6 +44,9 @@
     <Compile Include="Main.cs" />
     <Compile Include="AssemblyInfo.cs" />
     <Compile Include="config.cs" />
+    <Compile Include="database.cs" />
+    <Compile Include="andserver.cs" />
+    <Compile Include="slcient.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
