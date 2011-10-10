@@ -46,7 +46,7 @@
     <Compile Include="config.cs" />
     <Compile Include="database.cs" />
     <Compile Include="andserver.cs" />
-    <Compile Include="slcient.cs" />
+    <Compile Include="slclient.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

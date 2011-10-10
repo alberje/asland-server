@@ -1,10 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="andserver.cs">
     <Files>
-      <File FileName="Main.cs" Line="59" Column="1" />
-      <File FileName="AssemblyInfo.cs" Line="1" Column="1" />
-      <File FileName="../LICENSE.txt" Line="1" Column="1" />
+      <File FileName="config.cs" Line="63" Column="19" />
+      <File FileName="Main.cs" Line="41" Column="33" />
+      <File FileName="database.cs" Line="63" Column="1" />
+      <File FileName="andserver.cs" Line="81" Column="44" />
+      <File FileName="slclient.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
