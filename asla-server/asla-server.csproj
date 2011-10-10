@@ -35,10 +35,15 @@
     <Reference Include="OpenMetaverse">
       <HintPath>..\..\libopenmetaverse\bin\OpenMetaverse.dll</HintPath>
     </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\mysql-connector-net-6.4.4-noinstall\v2\mysql.data.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="config.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
